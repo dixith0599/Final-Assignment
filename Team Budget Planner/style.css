@@ -1,0 +1,21 @@
+body {
+    color: #fff;
+    background: #3B474D;
+    font: 1em 'Fira Sans';
+    text-align: center;
+    margin: 100px ;
+    padding-bottom: 50px;
+    border: solid rgb(255, 255, 255) 2px;
+    box-shadow: 5px 10px 8px #080808;
+  }
+h1{
+    color:rgb(214, 252, 228);
+    text-transform:capitalize;
+}
+.addDet, .checkDet{
+  background-color: rgb(37, 46, 41);
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  padding: 10px;
+}
