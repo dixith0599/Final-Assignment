@@ -1,0 +1,4 @@
+1. Created 3 html file -->index.html, bestSeller.html, contactUs.html
+2. Created one images folder where I stored all the images related to the website.
+3. By using Bootstrap I created restuarent website.
+4. index.html has the home page, bestSeller.html File has all the items which are there in the restuarent and contactUs.html user can contact with the admin of the page.
